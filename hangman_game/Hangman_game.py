@@ -6,7 +6,7 @@ words = ["casa", "arvore", "computador", "elefante"]
 # Escolhe uma palavra aleatória da lista
 word = random.choice(words)
 
-# Inicializa a lista de letras corretas com hífens
+# Inicializa a lista de letras corretas com asteriscos
 correct_letters = ["*" for _ in word]
 
 # Inicializa o número de tentativas restantes
