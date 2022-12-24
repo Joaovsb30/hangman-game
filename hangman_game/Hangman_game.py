@@ -1,7 +1,7 @@
 import random
 
 # Lista de palavras que o jogo pode usar
-words = ["casa", "arvore", "computador", "elefante"]
+words = ["casa", "arvore", "computador", "elefante", "ventilador", "tigela"]
 
 # Escolhe uma palavra aleatória da lista
 word = random.choice(words)
